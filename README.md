@@ -4,6 +4,7 @@ RecyclerView+TabLayout联动，点击随意一个tab标签，指定RecyclerView�
 可以结合我的博客阅读 https://blog.csdn.net/yls20111104173/article/details/82380757
 
 效果如图
+position=8，=9时候没有变化，是因为已经到底部
 
 
 
