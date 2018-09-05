@@ -9,4 +9,4 @@ RecyclerView+TabLayout联动，点击随意一个tab标签，指定RecyclerView�
 
 ![image](https://github.com/qq675080677/RecyclerViewAnchor/blob/master/scroll.gif)  
 ![image](https://github.com/qq675080677/RecyclerViewAnchor/blob/master/click.gif)  
-
+希望可以帮助到你
